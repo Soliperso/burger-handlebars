@@ -19,7 +19,7 @@ The goal was to create a Burger App using Node Express Handlebars and our own OR
 - Materialize - Add CDN link http://materializecss.com/getting-started.html
 
 ## Built With
-* Sublime Text - Text Editor
+* VS Code - Text Editor
 * Materialize - Wireframe
 * MySql Workbench
 

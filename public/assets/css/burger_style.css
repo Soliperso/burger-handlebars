@@ -1,0 +1,38 @@
+.jumbotron {
+    background-image: url("/assets/img/burger.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.jumbotron > h1 {
+    font-family: 'Creepster', cursive;
+}
+
+#newburger {
+    border-radius: 3px;
+}
+
+#color-override {
+    color: orange;
+    text-shadow: 1px 1px 6px #000;
+}
+
+#lefthead {
+    background-color: #ff9800;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #trashbutton {
+    float: right;
+}
+
+#righthead {
+    background-color: #f0ad4e;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}

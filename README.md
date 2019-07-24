@@ -25,3 +25,8 @@ The goal was to create a Burger App using Node Express Handlebars and our own OR
 
 ## Author
 Ahmed Chebli
+
+## Links
+https://github.com/Soliperso/burger-handlebars
+https://agile-basin-48761.herokuapp.com
+https://soliperso.github.io/Bootstrap-Portfolio/
